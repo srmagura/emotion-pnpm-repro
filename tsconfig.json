@@ -17,6 +17,5 @@
     "jsx": "react-jsx",
     "preserveSymlinks": true
   },
-  "include": ["src"],
-  "references": [{ "path": "./tsconfig.node.json" }]
+  "include": ["src"]
 }
